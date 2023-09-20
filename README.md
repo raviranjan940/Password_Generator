@@ -29,5 +29,6 @@ Our password generator can be installed as a Chrome extension for convenient acc
 
 ## Demo
 
-You can try out the Password Generator Website at https://raviranjan940.github.io/Password_Generator/
+[You can visit the Password Generator Website](https://raviranjan940.github.io/Password_Generator/)
+
 ```
