@@ -17,6 +17,6 @@ Choose from a variety of character sets to include in your password: lowercase l
 Quickly copy the generated password to your clipboard with a single click, making it easy to use in various applications.
 
 ### Chrome Extension:
-Our password generator can be installed as a Chrome extension for convenient access directly from your browser's toolbar.
+My password generator can be installed as a Chrome extension for convenient access directly from your browser's toolbar.
 
 
