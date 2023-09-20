@@ -1,0 +1,13 @@
+{
+    "name" : "Password Generator",
+    "version" :"0.0.1",
+    "manifest_version" : 3,
+    "icons":{
+        "32": "./assets/logo.png"
+    },
+    "action":{
+        "default_tittle": "Password Generator",
+        "default_popup" : "index.html"
+        
+    }
+}
