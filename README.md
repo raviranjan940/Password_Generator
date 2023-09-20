@@ -1,7 +1,5 @@
 Welcome to the Password Generator Website GitHub repository! This repository contains the source code and assets for a web-based password generator with various features to create strong and secure passwords.
 
-Certainly! Here's the text you provided formatted for a GitHub README with bold headings and a title:
-
 ```markdown
 # Password Generator Website
 
