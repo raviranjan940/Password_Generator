@@ -1,6 +1,7 @@
 Welcome to the Password Generator Website GitHub repository! This repository contains the source code and assets for a web-based password generator with various features to create strong and secure passwords.
 
-##Features:
+##Features: 
+
 #Password Strength Indicator: 
 The password generator assesses the strength of generated passwords, categorizing them as weak, moderate, or strong based on complexity criteria.
 
